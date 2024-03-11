@@ -92,3 +92,5 @@ Shield Insurance Company is well-known for providing complete insurance. It's li
  
 
 Link to interact with live dashboard- https://app.powerbi.com/view?r=eyJrIjoiMzY5ZWMzMGEtOGFjYy00NDkxLWE5YWYtZjFjMmE4OTgxNDAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+Novypro :  https://www.novypro.com/project/shield-insurance-9
